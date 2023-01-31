@@ -5,3 +5,4 @@ remote_theme: riggraz/no-style-please
 theme_config:
   appearance: auto
   show_description: true
+  date_format: "%Y-%m-%d"
