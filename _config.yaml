@@ -1,3 +1,7 @@
 ##
+title: mark church
+author: Mark Church
 remote_theme: riggraz/no-style-please
-theme_config.show_description: true
+theme_config:
+  appearance: auto
+  show_description: true
