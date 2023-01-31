@@ -1,0 +1,16 @@
+
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    entries:
+      - title: twitter
+        url: https://twitter.com/churchofmark
+      - title: linkedin
+        url: https://www.linkedin.com/in/markac/
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
